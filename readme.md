@@ -19,13 +19,15 @@
 ### 🛠️ Technologies utilisées
 
 - **Frontend :** HTML, CSS, Bootstrap, Javascript
+- **Outil tiers :** Pipedrive Scheduler (prise de rendez-vous)
 
 ---
 
 ### 📖 Description du projet
 
-Ce projet consistait à concevoir une **page de présentation professionnelle** pour un consultant.  
-L'objectif principal était de proposer une interface claire, moderne et responsive, avec une **navigation fluide** et un **design soigné**.
+Ce projet avait pour objectif de concevoir une page de **présentation professionnelle** destinée à un consultant.
+Il intègre une section dédiée à la prise de rendez-vous en ligne grâce au service Pipedrive Scheduler, facilitant ainsi le contact direct avec les visiteurs.
+L’accent a été mis sur une interface claire, un design moderne et soigné, ainsi qu’une **navigation fluide** et parfaitement responsive.
 
 ---
 
